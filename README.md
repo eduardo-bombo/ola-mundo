@@ -1,2 +1,2 @@
-# Olá, Mundo! :wave:
- Primeiro repositório - Git e GitHub - Curso em Vídeo
+# Olá, mundo! :wave:
+Curso em Vídeo - Git e GitHub

@@ -1,2 +1,2 @@
 # Olá, mundo! :wave:
-Curso em Vídeo - Git e GitHub
+Curso em Vídeo - Gustavo Guanabara - Git e GitHub.
